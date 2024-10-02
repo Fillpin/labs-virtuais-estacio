@@ -1,4 +1,3 @@
-## Este código visa automatizar o calculo da média das notas utilizando a linguagem Python
 def calcular_media():
     while True:
         try:
